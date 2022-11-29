@@ -10,3 +10,6 @@ class Development(Config):
     SUDO_USERS = 921396580, 954299697, 5010209835, 5676170494, 5492224551, 5516142677
     LOAD = []
     NO_LOAD = ['translation']
+    TOKEN =5983274515:AAEsu4lUxkxHEceHCN64Yh3fgHCrwBM1HqU
+
+ 
